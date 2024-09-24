@@ -19,7 +19,7 @@ body{
 }
 @media (max-width:450px) {
     .todo-body{
-        height:100vh;
+        height:100%;
         width: 100%;
         
     }
